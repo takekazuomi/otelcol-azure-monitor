@@ -1,0 +1,7 @@
+gen/
+tmp/
+*.local
+go.work
+traces.txt
+*~
+.vscode
